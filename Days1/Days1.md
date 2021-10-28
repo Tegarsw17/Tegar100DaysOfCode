@@ -9,3 +9,5 @@
 * youtube, w3school, freecodecamp
 * we must know the fundmental of code cause can affect to other think
 * wemust post it on github or social media and print table/ schedule
+
+and i write something to introduce myself in a nutshell [more](hello.py)
