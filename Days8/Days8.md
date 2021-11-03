@@ -26,8 +26,9 @@ Strings:
 * Striping white space <ins>**strip**</ins>
 
 ### Problem From Leetcode
-I continue to solve palindrome and finnaly it's done
-in this problem i learn about:
+I continue to solve [palindrome](https://leetcode.com/problems/palindrome-number/) and finnaly it's done.
+
+In this problem i learn about:
 * Boolean operation
 * if...else
 * slice
@@ -35,3 +36,4 @@ in this problem i learn about:
 * function
 
 Big insight about this problem is about how to make code run fast and use minimum memory
+[MyCode](palindrome.py)
