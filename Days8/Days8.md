@@ -1,9 +1,10 @@
 # Days8
 ## schedule
 - [x] learn course in freecodecamp
-- [ ] Challenge from letcode
+- [x] Challenge from letcode
 
 ## Result
+### Learn from course
 Looping:
 * while loops <ins>**while in loops**</ins>
 * infinite loops
@@ -23,3 +24,14 @@ Strings:
 * Searching in string <ins>**Find**</ins>
 * replacing in string <ins>**replace**</ins>
 * Striping white space <ins>**strip**</ins>
+
+### Problem From Leetcode
+I continue to solve palindrome and finnaly it's done
+in this problem i learn about:
+* Boolean operation
+* if...else
+* slice
+* while
+* function
+
+Big insight about this problem is about how to make code run fast and use minimum memory
