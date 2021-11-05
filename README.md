@@ -25,3 +25,7 @@ Teach OOP to my student [more](Days7/Days7.md)
 
 ## Days 8
 Continue learn in freecodecamp [more](Days8/Days8.md)
+
+## Days 9
+Finish one problem in leetcode [more](Days9/Days9.md)
+
